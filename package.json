@@ -1,0 +1,20 @@
+{
+  "name": "simon-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git push && git push github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mrcodedev/simon-dice-game-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mrcodedev/simon-dice-game-js/issues"
+  },
+  "homepage": "https://gitlab.com/mrcodedev/simon-dice-game-js#readme"
+}
